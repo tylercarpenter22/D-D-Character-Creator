@@ -66,7 +66,7 @@ To run the application on your local machine, follow these steps:
 1. Clone the repository to your local machine using Git:
 git clone https://github.com/your-username/dnd-java-application.git
 
-2.Ensure that you have Java installed.
+2. Ensure that you have Java installed.
 
 3. Navigate to project directory:
 cd dnd-java-application
