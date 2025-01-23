@@ -1,0 +1,145 @@
+{
+  "races": [
+    {
+      "name": "Dragonborn",
+      "description": "Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. They are known for their strength, pride, and draconic heritage.",
+      "subraces": [
+        {
+          "name": "White Dragonborn",
+          "description": "White dragonborn are descended from white dragons, known for their icy breath and affinity with cold. They are often cold and aloof, reflecting the harshness of their draconic ancestors."
+        },
+        {
+          "name": "Black Dragonborn",
+          "description": "Black dragonborn are descended from black dragons, renowned for their acid breath and cunning. They are often calculating and sneaky, embodying the traits of their draconic heritage."
+        },
+        {
+          "name": "Red Dragonborn",
+          "description": "Red dragonborn are descendants of red dragons, known for their fiery breath and dominant personalities. They tend to be proud, aggressive, and confident in their abilities."
+        },
+        {
+          "name": "Blue Dragonborn",
+          "description": "Blue dragonborn are descended from blue dragons, famous for their lightning breath and fiery, passionate nature. They are often fiercely territorial and proud."
+        },
+        {
+          "name": "Green Dragonborn",
+          "description": "Green dragonborn are descended from green dragons, characterized by their toxic breath and manipulative demeanor. They are often sly, charismatic, and deceptive."
+        }
+      ]
+    },
+    {
+      "name": "Dwarf",
+      "description": "Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. They are strong, durable, and deeply dedicated to their clans and traditions.",
+      "subraces": [
+        {
+          "name": "Hill Dwarf",
+          "description": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience."
+        },
+        {
+          "name": "Mountain Dwarf",
+          "description": "As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain."
+        }
+      ]
+    },
+    {
+      "name": "Elf",
+      "description": "Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They are known for their keen senses, proficiency with a bow, and their connection to nature.",
+      "subraces": [
+        {
+          "name": "High Elf",
+          "description": "As a high elf, you have a keen mind and a mastery of at least the basics of magic."
+        },
+        {
+          "name": "Wood Elf",
+          "description": "As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests."
+        },
+        {
+          "name": "Drow (Dark Elf)",
+          "description": "Descended from an earlier subrace of dark-skinned elves, the drow are now a race of their own, dwelling in the Underdark."
+        }
+      ]
+    },
+    {
+      "name": "Gnome",
+      "description": "A gnome’s energy and enthusiasm for living shines through every inch of their tiny body. Gnomes are quick-witted, curious, and often craft skilled tinkerers or illusionists.",
+      "subraces": [
+        {
+          "name": "Forest Gnome",
+          "description": "As a forest gnome, you have a natural knack for illusion and inherent quickness and stealth."
+        },
+        {
+          "name": "Rock Gnome",
+          "description": "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes."
+        }
+      ]
+    },
+    {
+      "name": "Half-Elf",
+      "description": "Half-elves combine what some say are the best qualities of their elf and human parents. They are charismatic, versatile, and adaptive, though they lack defined subraces.",
+      "subraces": [
+        {
+          "name": "High Half-Elf",
+          "description": "As a high half-elf, you are blessed with the grace and poise of your elven ancestry, and a keen mind that allows you to learn magic and culture with ease."
+        },
+        {
+          "name": "Wood Half-Elf",
+          "description": "As a wood half-elf, you inherit the stealth, dexterity, and adaptability of wood elves, blending into natural environments with ease."
+        },
+        {
+          "name": "Drow Half-Elf",
+          "description": "As a drow half-elf, you combine the mystique and shadowy allure of the drow with the adaptability and resilience of your human heritage."
+        }
+      ]
+    },
+    {
+      "name": "Half-Orc",
+      "description": "Half-orcs are known for their physical strength and resilience. They often live between human and orc societies, struggling to find a place but always commanding respect for their might.",
+      "subraces": []
+    },
+    {
+      "name": "Halfling",
+      "description": "The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. They are known for their courage and their incredibly lucky nature.",
+      "subraces": [
+        {
+          "name": "Lightfoot Halfling",
+          "description": "As a lightfoot halfling, you are nimble and stealthy, making you a naturally adept adventurer."
+        },
+        {
+          "name": "Stout Halfling",
+          "description": "As a stout halfling, you're hardier than average and have a strong resistance to poison."
+        }
+      ]
+    },
+    {
+      "name": "Human",
+      "description": "Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs depending on the region they hail from.",
+      "subraces": [
+        {
+          "name": "Standard Human",
+          "description": "Standard humans are versatile and come in many shapes and forms, making them well-rounded and adaptable."
+        },
+        {
+          "name": "Variant Human",
+          "description": "Variant humans get a customizable feature set and feat at 1st level, providing more versatility than the standard human."
+        }
+      ]
+    },
+    {
+      "name": "Tiefling",
+      "description": "Tieflings inherit the fiendish bloodline from ancient pacts or infernal ancestors. They often bear horns, tails, and other infernal features, but many seek to rise above their dark heritage.",
+      "subraces": [
+        {
+          "name": "Asmodeus Tiefling",
+          "description": "Asmodeus tieflings are the most common type of tiefling, descended from the archdevil Asmodeus. They possess infernal power and a natural charisma that can be used for manipulation or leadership."
+        },
+        {
+          "name": "Mephistopheles Tiefling",
+          "description": "Mephistopheles tieflings are descended from the archdevil Mephistopheles, gaining powers related to cold and fire, along with an air of intellect and manipulation."
+        },
+        {
+          "name": "Zariel Tiefling",
+          "description": "Zariel tieflings are descended from the archdevil Zariel, embodying both strength and fiery rage, with a deep connection to celestial warfare and a desire to lead in battle."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+    "backgrounds": [
+      {
+        "name": "Acolyte",
+        "description": "You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world."
+      },
+      {
+        "name": "Anthropologist",
+        "description": "You have studied many different cultures, learning to appreciate the diversity of beliefs, traditions, and practices that people adhere to."
+      },
+      {
+        "name": "Archaeologist",
+        "description": "You seek out and study the ruins and artifacts of lost civilizations, helping to recover ancient knowledge and treasures."
+      },
+      {
+        "name": "Athlete",
+        "description": "You have trained and competed at an athletic event or sport, specializing in a specific physical ability, which you have perfected through rigorous discipline."
+      },
+      {
+        "name": "Charlatan",
+        "description": "You have always had a way with people, convincing them to trust you while selling them lies and empty promises. You're a master of deception and trickery."
+      },
+      {
+        "name": "City Watch",
+        "description": "You have served as a watchman or law enforcement officer in a major city, keeping the peace and upholding local laws."
+      },
+      {
+        "name": "Clan Crafter",
+        "description": "You are a skilled artisan who trained within a dwarf clan, crafting items of exceptional quality, with a strong sense of tradition and duty."
+      },
+      {
+        "name": "Cloistered Scholar",
+        "description": "You have lived a life of scholarship, spending your days in libraries or at the feet of learned teachers, acquiring vast knowledge."
+      },
+      {
+        "name": "Courtier",
+        "description": "You have served in the court of a noble or royalty, learning the ways of diplomacy, politics, and etiquette."
+      },
+      {
+        "name": "Criminal",
+        "description": "You have a history of breaking the law and living by your wits, evading authorities while pulling off heists or schemes."
+      },
+      {
+        "name": "Entertainer",
+        "description": "You are a performer at heart, using your talents to captivate audiences, whether through music, storytelling, acrobatics, or acting."
+      },
+      {
+        "name": "Faceless",
+        "description": "You operate from behind a mask or persona, concealing your true identity while fighting for a cause or seeking justice in secret."
+      },
+      {
+        "name": "Faction Agent",
+        "description": "You belong to a faction dedicated to a specific cause, serving their interests with unwavering loyalty and commitment."
+      },
+      {
+        "name": "Far Traveler",
+        "description": "You have traveled to distant lands, exploring new cultures, landscapes, and customs far removed from your own."
+      },
+      {
+        "name": "Feylost",
+        "description": "You were once lost in the Feywild, and now you carry its strange magic and influence with you in the mortal world."
+      },
+      {
+        "name": "Fisher",
+        "description": "You have spent much of your life fishing, either for survival or as a profession, developing skills to read the waters and weather."
+      },
+      {
+        "name": "Folk Hero",
+        "description": "You are a champion of the common people, having risen from humble beginnings to stand against tyranny or injustice."
+      },
+      {
+        "name": "Giant Foundling",
+        "description": "Raised by giants or within their culture, you possess great strength and knowledge of their ways."
+      },
+      {
+        "name": "Gladiator",
+        "description": "You have fought in arenas for the entertainment of others, becoming a deadly combatant honed by the harsh life of a warrior."
+      },
+      {
+        "name": "Guild Artisan",
+        "description": "You are a member of a respected guild, using your craft to earn a living and a reputation as a skilled tradesperson."
+      },
+      {
+        "name": "Guild Merchant",
+        "description": "You belong to a guild of traders, using your wits and bargaining skills to secure valuable goods and profitable deals."
+      },
+      {
+        "name": "Haunted One",
+        "description": "You have faced unimaginable horrors, which left you scarred, both physically and mentally. You are driven by a need to confront your fears or atone for past deeds."
+      },
+      {
+        "name": "Hermit",
+        "description": "You lived in seclusion, away from society, seeking inner peace, spiritual guidance, or hiding from the world."
+      },
+      {
+        "name": "House Agent",
+        "description": "You represent one of the great noble houses, acting as their agent and carrying out their will in matters of business or politics."
+      },
+      {
+        "name": "Inheritor",
+        "description": "You are the heir to a special legacy—whether it's an artifact, a secret, or a mission passed down to you by your ancestors."
+      },
+      {
+        "name": "Investigator",
+        "description": "You are trained in solving mysteries, using a combination of observation, logic, and intuition to uncover hidden truths."
+      },
+      {
+        "name": "Knight",
+        "description": "You are a member of a noble order of warriors, bound by honor and duty to protect the weak and uphold chivalry."
+      },
+      {
+        "name": "Knight of the Order",
+        "description": "You serve a holy order or organization dedicated to a particular cause, protecting its interests and leading its forces."
+      },
+      {
+        "name": "Marine",
+        "description": "You are a hardened soldier who has spent time aboard ships, fighting battles both at sea and on land."
+      },
+      {
+        "name": "Mercenary Veteran",
+        "description": "You have served as a soldier-for-hire, fighting for the highest bidder, with a wealth of experience in warfare."
+      },
+      {
+        "name": "Noble",
+        "description": "You are born to a noble family, having been raised in wealth and privilege, with a keen understanding of politics and social dynamics."
+      },
+      {
+        "name": "Outlander",
+        "description": "You have spent your life in the wilderness, surviving through your knowledge of nature and your resourcefulness."
+      },
+      {
+        "name": "Pirate",
+        "description": "You lived the life of a buccaneer, raiding ships and plundering the seas, with a code of freedom and adventure."
+      },
+      {
+        "name": "Rewarded",
+        "description": "You have earned the favor of a noble or ruler, and now you live a life of luxury thanks to their generosity."
+      },
+      {
+        "name": "Ruined",
+        "description": "Your past has been marred by great personal loss or failure, but you survive, driven by a burning desire to reclaim what was taken."
+      },
+      {
+        "name": "Rune Carver",
+        "description": "You have mastered the ancient art of rune magic, inscribing powerful symbols into objects or onto the battlefield."
+      },
+      {
+        "name": "Sage",
+        "description": "You have devoted your life to scholarly pursuits, seeking knowledge in books, scrolls, and ancient texts."
+      },
+      {
+        "name": "Sailor",
+        "description": "You have spent your life at sea, learning the ways of ships, navigation, and the unpredictable nature of the ocean."
+      },
+      {
+        "name": "Shipwright",
+        "description": "You are skilled in the construction and repair of ships, understanding the intricate craft that keeps them seaworthy."
+      },
+      {
+        "name": "Smuggler",
+        "description": "You have a talent for moving goods and people across borders, evading authorities and bypassing laws to make a profit."
+      },
+      {
+        "name": "Soldier",
+        "description": "You have served in a military force, honing your skills in battle and discipline through service and command."
+      },
+      {
+        "name": "Spy",
+        "description": "You specialize in gathering information and infiltrating enemy forces, using subterfuge and deception to achieve your objectives."
+      },
+      {
+        "name": "Urchin",
+        "description": "You grew up on the streets, learning to fend for yourself in the harsh environment of a bustling city."
+      }
+    ]
+  }
+  

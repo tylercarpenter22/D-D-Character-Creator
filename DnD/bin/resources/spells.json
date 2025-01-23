@@ -1,0 +1,1523 @@
+[
+  {
+    "name": "Acid Splash",
+    "level": 0,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A bubble of acid splashes on a creature you can see within range. The target must succeed on a Dexterity saving throw or take 1d6 acid damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Blade Ward",
+    "level": 0,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 round",
+    "description": "You extend your hand and shield yourself with a shimmering field. Until the start of your next turn, you have resistance against bludgeoning, piercing, and slashing damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Bone Chill",
+    "level": 0,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You cause a creature to experience intense cold. The target must succeed on a Constitution saving throw or take 1d6 cold damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Dancing Lights",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create up to four torch-sized lights within range. Each light appears as a glowing sphere of light, and you can move them up to 60 feet each round.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Eldritch Blast",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "description": "A beam of crackling energy streaks toward a creature you can see. Make a ranged spell attack, and on a hit, the target takes 1d10 force damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Fire Bolt",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "description": "A tiny ball of fire streaks toward a creature or object within range. Make a ranged spell attack, and on a hit, the target takes 1d10 fire damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Friends",
+    "level": 0,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile to you.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Guidance",
+    "level": 0,
+    "school": "Divination",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You touch a willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Light",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "1 hour",
+    "description": "You touch one object that is no larger than 10 feet in any dimension. It sheds bright light in a 20-foot radius and dim light for an additional 20 feet.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Mage Hand",
+    "level": 0,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "1 minute",
+    "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Minor Illusion",
+    "level": 0,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "1 minute",
+    "description": "You create a sound or an image of an object within range. The illusion lasts for the duration or until you dismiss it.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Poison Spray",
+    "level": 0,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "description": "You extend your hand toward a creature you can see within range, and a puff of noxious gas sprays from your palm. The target must succeed on a Constitution saving throw or take 1d12 poison damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Produce Flame",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "description": "A flickering flame appears in your hand. You can use it to make a ranged spell attack against a creature within 30 feet. On a hit, the target takes 1d8 fire damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Ray of Frost",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack, and on a hit, the target takes 1d8 cold damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Resistance",
+    "level": 0,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You touch one willing creature. The target can roll a d4 and add the number rolled to one saving throw of its choice.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Sacred Flame",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A flame-like radiance descends on a creature you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Shillelagh",
+    "level": 0,
+    "school": "Transmutation",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "1 minute",
+    "description": "You touch a club or a quarterstaff. The weapon becomes magical, and its damage die changes to 1d8. The spell ends if you cast it again.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Shocking Grasp",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "You reach out and deliver a shock of electricity. Make a melee spell attack, and on a hit, the target takes 1d8 lightning damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Thaumaturgy",
+    "level": 0,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Up to 1 minute",
+    "description": "You manifest a minor wonder, a sign of supernatural power. You create one of the following effects: causing flames to flicker, doors to open, or your voice to boom.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Thorn Whip",
+    "level": 0,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "description": "You create a long vine whip covered in thorns and lash out at a creature you can see. Make a melee spell attack, and on a hit, the target takes 1d6 piercing damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "True Strike",
+    "level": 0,
+    "school": "Divination",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 round",
+    "description": "You point at a target, and the target gains a mystical sense of your aim. You have advantage on your first attack roll against the target.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Vicious Mockery",
+    "level": 0,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You unleash a string of insults laced with subtle enchantments. The target must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on its next attack roll.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Animal Friendship",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "24 hours",
+    "description": "You can convince a beast that you mean it no harm. The target must succeed on a Wisdom saving throw or be charmed by you for the duration.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Armour of Agathys",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 hour",
+    "description": "A protective magical force surrounds you, manifesting as a shimmering aura. You gain temporary hit points, and any creature that hits you with a melee attack takes cold damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Arms of Hadar",
+    "level": 1,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "Self (10-foot radius)",
+    "duration": "Instantaneous",
+    "description": "You evoke the power of Hadar, the Dark Hunger. Tendrils of dark energy burst from you and batter all creatures within range. They must make a Strength saving throw or take necrotic damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Bane",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You reach out and bestow a debilitating curse upon up to three creatures. They must make a Charisma saving throw or suffer a penalty to their attack rolls and saving throws.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Bless",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You bless up to three creatures of your choice within range. Each target can add a d4 to its attack rolls or saving throws.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Burning Hands",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Self (15-foot cone)",
+    "duration": "Instantaneous",
+    "description": "A thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw or take fire damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Charm Person",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "1 hour",
+    "description": "You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw or be charmed by you for the duration.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Chromatic Orb",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "Instantaneous",
+    "description": "You create an orb of energy, choosing a type of energy (acid, cold, fire, lightning, poison, or thunder), and hurl it at a creature you can see within range.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Colour Spray",
+    "level": 1,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Self (15-foot cone)",
+    "duration": "Instantaneous",
+    "description": "You blast a dazzling array of colored light at creatures in a cone. Each creature must make a Constitution saving throw or be blinded for 1 round.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Command",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "1 round",
+    "description": "You speak a one-word command to a creature you can see within range. The creature must succeed on a Wisdom saving throw or follow the command on its next turn.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Compelled Duel",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 bonus action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You compel a creature within range to duel you. It must make a Wisdom saving throw or be forced to focus its attacks on you.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Create or Destroy Water",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "description": "You create or destroy water. You can create up to 10 gallons of clean water or destroy up to 10 gallons of water within range.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Cure Wounds",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Disguise Self",
+    "level": 1,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 hour",
+    "description": "You make yourself appear as another person. You can change your appearance to look like someone else of your size.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Dissonant Whispers",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You whisper a discordant melody that only one creature you can see within range can hear. The creature must succeed on a Wisdom saving throw or take psychic damage and move away from you.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Divine Favour",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "Your weapon is imbued with divine energy. You gain a bonus to damage rolls for the duration.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Enhance Leap",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 minute",
+    "description": "You magically enhance your jumping ability. For the duration, you can jump higher and further than normal.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Ensnaring Strike",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "The next time you hit a creature with a weapon attack, a mass of entangling vines wraps around it, restraining the target.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Entangle",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "Grasping weeds and vines sprout from the ground in a 20-foot square. Creatures in the area must make a Strength saving throw or be restrained.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Expeditious Retreat",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You take the Dash action as a bonus action on each of your turns for the duration.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Faerie Fire",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You outline creatures in glowing faerie fire. Any creature in the area must make a Dexterity saving throw or be outlined in light, giving advantage to attacks against it.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "False Life",
+    "level": 1,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 hour",
+    "description": "You gain temporary hit points that last for the duration.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Feather Fall",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 reaction",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You slow the fall of up to five falling creatures within range. They descend gently to the ground without taking damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Find Familiar",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 hour",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "description": "You summon a familiar, a spirit that takes an animal form. It can assist you in various ways.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Fog Cloud",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You create a 20-foot-radius cloud of fog that heavily obscures the area within it.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Goodberry",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "You create up to ten berries, which provide nourishment and healing when eaten.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Grease",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a slippery grease in a 10-foot square. Creatures in the area must make a Dexterity saving throw or fall prone.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Guiding Bolt",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "description": "A flash of light streaks toward a creature you choose within range. On a hit, it takes radiant damage and the next attack roll against the target has advantage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Hail of Thorns",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 bonus action",
+    "range": "Self (5-foot radius)",
+    "duration": "Instantaneous",
+    "description": "Thorns rain down in a 5-foot-radius around you. Creatures in the area must make a Dexterity saving throw or take piercing damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Healing Word",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 bonus action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A creature of your choice within range regains hit points equal to 1d4 + your spellcasting ability modifier.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Hellish Rebuke",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 reaction",
+    "range": "Self (30 feet)",
+    "duration": "Instantaneous",
+    "description": "A creature that damages you takes fire damage as a reaction.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Heroism",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You imbue yourself or one willing creature you can see with bravery. The target gains temporary hit points and is immune to fear.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Hex",
+    "level": 1,
+    "school": "Necromancy",
+    "castingTime": "1 bonus action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You choose one creature within range. The target has disadvantage on ability checks with one ability score.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Hunter's Mark",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 bonus action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You choose a creature within range and deal extra damage when you hit it with weapon attacks.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Ice Knife",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You conjure a shard of ice and throw it at a creature. The target must make a Dexterity saving throw or take piercing damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Inflict Wounds",
+    "level": 1,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "A creature you touch takes necrotic damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Longstrider",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 hour",
+    "description": "Your speed increases by 10 feet for the duration.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Mage Armour",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "8 hours",
+    "description": "A willing creature you touch gains a magical force that improves its AC.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Magic Missile",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "description": "You create three glowing darts of magical force. Each dart hits automatically and deals force damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Protection from Evil and Good",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Self or creature within range",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You protect a creature from certain types of creatures and forces.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Ray of Sickness",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A ray of sickening green energy saps the health of a creature.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Sanctuary",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You ward a creature within range, causing attacks against it to have disadvantage.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Searing Smite",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "Your weapon bursts into flames, dealing extra fire damage to the target on a hit.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Shield of Faith",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "1 bonus action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You create a shimmering shield of magical force around a creature, giving it a +2 bonus to AC.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Sleep",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "1 minute",
+    "description": "You send creatures within range into a magical slumber. Creatures with the lowest hit points are affected first.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Tasha's Hideous Laughter",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You cause a creature within range to burst into fits of laughter, incapacitating it until it can make a successful Wisdom saving throw.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Thunderwave",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Self (15-foot cube)",
+    "duration": "Instantaneous",
+    "description": "A wave of thunderous force erupts from you. Creatures within range must make a Constitution saving throw or take thunder damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Unseen Servant",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "1 hour",
+    "description": "You create an invisible, magical servant that can perform simple tasks for you.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Vault",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "description": "You magically leap to a space within range.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Witch Bolt",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a beam of crackling energy that hits a target and continues to damage it every round.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Shield",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "1 reaction",
+    "range": "Self",
+    "duration": "1 round",
+    "description": "An invisible barrier of magical force appears and grants you a +5 bonus to AC for the duration.",
+    "requiresConcentration": false
+  }, 
+  {
+    "name": "Acid Arrow",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "Instantaneous",
+    "description": "You create a magical acid arrow that deals acid damage to a target and continues to corrode them for a short time.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Aid",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "8 hours",
+    "description": "You bolster your allies with increased hit points, giving up to three creatures extra hit points.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Alter Self",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You transform yourself in various ways, including changing your appearance or gaining swimming or breathing abilities.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Arcane Lock",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Until dispelled",
+    "description": "You magically lock a door, chest, or similar object, making it harder to open without a specific key or magical means.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Blur",
+    "level": 2,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "Your form shifts and blurs, making it difficult for attackers to land a blow against you.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Branding Smite",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "Your weapon becomes imbued with radiant energy, and your next hit deals additional radiant damage to the target and causes it to glow.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Cloud of Daggers",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a cloud of spinning daggers in a 5-foot square. Creatures within the cloud take slashing damage.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Continual Flame",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Until dispelled",
+    "description": "You create a magical flame that emits bright light in a 20-foot radius and does not require fuel.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Crown of Madness",
+    "level": 2,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a crown of twisted iron around a creature's head, compelling them to attack another creature.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Darkness",
+    "level": 2,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You create a magical area of darkness, obscuring vision and making it difficult for creatures within to see.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Detect Thoughts",
+    "level": 2,
+    "school": "Divination",
+    "castingTime": "1 action",
+    "range": "Self (30 feet)",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You can hear the thoughts of creatures within range. You can probe deeper into their minds to gain more information.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Enlarge/Reduce",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You cause a creature or object to grow or shrink, altering its size and potentially its strength or other physical properties.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Eruption",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Self (10-foot radius)",
+    "duration": "Instantaneous",
+    "description": "You create a burst of fire and stone, causing creatures within range to take fire damage and be knocked back.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Flame Blade",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a blade of fire that lasts for the duration. The blade deals fire damage on a hit.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Flaming Sphere",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a sphere of fire that you can move within range, dealing fire damage to creatures it touches.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Hold Person",
+    "level": 2,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You paralyze a humanoid target within range, making it unable to move or take actions.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Invisibility",
+    "level": 2,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You make a creature or object within range invisible.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Knock",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "You open a locked door, chest, or similar object by bypassing magical or mundane locks.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Lesser Restoration",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "You touch a creature and cure one of the following conditions: blinded, deafened, paralyzed, or poisoned.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Misty Step",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "description": "You teleport up to 30 feet to an unoccupied space that you can see.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Mirror Image",
+    "level": 2,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 minute",
+    "description": "You create illusionary duplicates of yourself to confuse attackers, making it harder for them to hit you.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Nystul's Magic Aura",
+    "level": 2,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "1 hour",
+    "description": "You hide the magical aura of an object, making it appear as though it is not magical.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Pass Without Trace",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Self (30-foot radius)",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You and your companions leave no trace of your passage, making it harder for others to track you.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Ray of Enfeeblement",
+    "level": 2,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You blast a creature with a weakening ray. It deals half damage with Strength-based attacks.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Scorching Ray",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "description": "You create three rays of fire and can direct them at one or more targets, dealing fire damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Shatter",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You create a sudden loud noise and a burst of sound that damages creatures and objects within range.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Spider Climb",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You grant a creature the ability to climb difficult surfaces, including walls and ceilings, without needing to make checks.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Spike Growth",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "150 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You cause the ground in a 20-foot radius to become covered with sharp, spiked growths, damaging creatures that move through it.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Skywrite",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Self (5-mile radius)",
+    "duration": "1 hour",
+    "description": "You create magical writing in the sky, which can be seen for miles.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Suggestion",
+    "level": 2,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 8 hours",
+    "description": "You suggest a course of activity to a creature, which it must follow unless it can make a Wisdom saving throw.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Warding Bond",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "1 hour",
+    "description": "You form a magical bond with a willing creature, granting it a bonus to AC and saving throws but also taking some of the damage it would take.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Web",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You conjure a mass of thick, sticky webs that can entangle creatures within its area.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Animate Dead",
+    "level": 3,
+    "school": "Necromancy",
+    "castingTime": "1 minute",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "description": "You raise the dead as your minions, animating them to serve as skeletons or zombies under your control.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Bestow Curse",
+    "level": 3,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You bestow a debilitating curse on a creature, causing them to suffer a penalty on certain rolls or actions.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Counterspell",
+    "level": 3,
+    "school": "Abjuration",
+    "castingTime": "1 reaction",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You interrupt and negate another creature's casting of a spell.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Dispel Magic",
+    "level": 3,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "description": "You end a spell's effect within range by negating the magic that powers it.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Fear",
+    "level": 3,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Self (30-foot cone)",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a wave of fear, causing creatures within range to become frightened and flee.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Fireball",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "description": "You unleash a ball of fire that explodes in a burst of flame, dealing significant fire damage to creatures within its area.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Fly",
+    "level": 3,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You grant a creature the ability to fly for the duration of the spell.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Gaseous Form",
+    "level": 3,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You transform a creature into a cloud of mist, allowing them to pass through small openings and avoiding most physical damage.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Haste",
+    "level": 3,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You accelerate a creature, increasing their speed and granting them additional actions.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Hypnotic Pattern",
+    "level": 3,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a mesmerizing pattern that causes creatures within range to become charmed and incapacitated.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Lightning Bolt",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "100 feet",
+    "duration": "Instantaneous",
+    "description": "You release a bolt of lightning that travels in a straight line, damaging creatures in its path.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Magic Circle",
+    "level": 3,
+    "school": "Abjuration",
+    "castingTime": "1 minute",
+    "range": "10 feet",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You create a magical circle that protects against certain types of creatures and can be used to contain or bind them.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Major Image",
+    "level": 3,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You create a realistic illusion that can mimic any object, creature, or phenomenon within the spell's parameters.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Misty Step",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "1 bonus action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "description": "You teleport up to 30 feet to an unoccupied space that you can see.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Revivify",
+    "level": 3,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "You bring a creature that has died within the last minute back to life with 1 hit point.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Sending",
+    "level": 3,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "Unlimited",
+    "duration": "Instantaneous",
+    "description": "You send a short message to a creature anywhere in the world, allowing them to respond in kind.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Sleet Storm",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "150 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a storm of sleet that makes the area difficult to see and move through, potentially causing creatures to fall prone.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Slow",
+    "level": 3,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You reduce the speed and reactions of creatures in the area, making them slower to act and respond.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Stinking Cloud",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a cloud of noxious gas that sickens creatures within it, causing them to take poison damage and become incapacitated.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Tongues",
+    "level": 3,
+    "school": "Divination",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "1 hour",
+    "description": "You can understand and speak any language for the duration of the spell.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Wall of Water",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "Self (60-foot line)",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You create a wall of water that can block movement and provide protection from certain types of attacks.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Banishment",
+    "level": 4,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You banish a creature to another plane of existence. If the creature is native to the plane you're on, it is sent back to its home plane.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Blight",
+    "level": 4,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "description": "Necromantic energy washes over a creature, draining vitality and causing it to wither and die, dealing necrotic damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Confusion",
+    "level": 4,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You cause creatures within range to become confused, causing them to behave unpredictably and possibly harm themselves or others.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Dimension Door",
+    "level": 4,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "500 feet",
+    "duration": "Instantaneous",
+    "description": "You teleport yourself and willing creatures within range to a location you can visualize or describe.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Greater Invisibility",
+    "level": 4,
+    "school": "Illusion",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You turn yourself or a creature you touch invisible. The target can still take actions and cast spells without revealing their position.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Polymorph",
+    "level": 4,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You transform a creature you can see within range into a new form. The transformation lasts for the duration or until the target drops to 0 hit points or dies.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Stoneskin",
+    "level": 4,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You grant a creature resistance to non-magical bludgeoning, piercing, and slashing damage for the duration.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Wall of Fire",
+    "level": 4,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Self (60-foot line)",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a wall of fire that damages creatures within its area and can serve as a barrier to block movement.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Cloudkill",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "A cloud of poison gas moves with the wind and deals poison damage to creatures within its area.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Cone of Cold",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "Self (60-foot cone)",
+    "duration": "Instantaneous",
+    "description": "A blast of cold air radiates from you, freezing everything in its path and dealing cold damage to creatures caught in it.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Dominate Person",
+    "level": 5,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You take control of a humanoid creature within range, allowing you to dictate their actions for the duration.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Flame Strike",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A vertical column of divine fire roars down to strike a target, dealing both fire and radiant damage.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Greater Restoration",
+    "level": 5,
+    "school": "Abjuration",
+    "castingTime": "1 action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "description": "You undo the effects of debilitating conditions on a creature, including exhaustion, curses, and diseases.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Hold Monster",
+    "level": 5,
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You paralyze a creature within range, rendering it immobile and unable to act.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Insect Plague",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "150 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You summon a swarm of biting insects that creates difficult terrain and deals piercing damage to creatures within its area.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Mass Cure Wounds",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You channel healing energy in a wide area, restoring hit points to multiple creatures in range.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Telekinesis",
+    "level": 5,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You move and manipulate objects or creatures with your mind, lifting them and controlling their movement.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Wall of Stone",
+    "level": 5,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You create a wall of solid stone that can be shaped to suit your needs, providing cover or blocking movement.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Arcane Gate",
+    "level": 6,
+    "school": "Conjuration",
+    "castingTime": "1 action",
+    "range": "Self (10 feet)",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You create a portal that connects two points within range, allowing for instant travel between them.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Blade Barrier",
+    "level": 6,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "You create a wall of spinning blades that deals slashing damage to creatures passing through it.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Chain Lightning",
+    "level": 6,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "description": "You unleash a bolt of lightning that arcs from one target to another, dealing lightning damage to each creature it hits.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Circle of Death",
+    "level": 6,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "description": "You cause a sphere of negative energy to burst, dealing necrotic damage to all creatures in the area.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Create Undead",
+    "level": 6,
+    "school": "Necromancy",
+    "castingTime": "1 action",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "description": "You raise undead creatures under your control, either as ghouls, ghasts, or mummies.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "Disintegrate",
+    "level": 6,
+    "school": "Transmutation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "A thin green ray disintegrates creatures or objects it hits, reducing them to dust.",
+    "requiresConcentration": false
+  },
+  {
+    "name": "True Seeing",
+    "level": 6,
+    "school": "Divination",
+    "castingTime": "1 action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You can see things as they actually are, perceiving hidden doors, illusions, and invisible creatures.",
+    "requiresConcentration": true
+  },
+  {
+    "name": "Heal",
+    "level": 6,
+    "school": "Evocation",
+    "castingTime": "1 action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "description": "You restore a large amount of hit points to a creature, curing them of disease or blindness.",
+    "requiresConcentration": false
+  }
+]  
+  

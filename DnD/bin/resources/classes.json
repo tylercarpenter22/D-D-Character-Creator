@@ -1,0 +1,239 @@
+{
+    "classes": [
+      {
+        "name": "Artificer",
+        "description": "Artificers use their arcane knowledge to invent magical devices, blending technology and magic into powerful creations. They are experts in crafting and imbuing objects with magical power.",
+        "subclasses": [
+          {
+            "name": "Alchemist",
+            "description": "Specialists in combining reagents to produce mystical effects and potions that can heal, harm, or enhance."
+          },
+          {
+            "name": "Artillerist",
+            "description": "Focused on magical explosives and arcane firearms, artillerists summon powerful energy-based artillery to deal damage."
+          },
+          {
+            "name": "Battle Smith",
+            "description": "Experts in repair and combat, battle smiths combine weapon mastery with crafting magical constructs for protection."
+          }
+        ]
+      },
+      {
+        "name": "Barbarian",
+        "description": "Barbarians are fierce warriors of primal instinct, known for their unparalleled rage and strength in battle. Their ability to withstand and deal damage makes them formidable combatants.",
+        "subclasses": [
+          {
+            "name": "Path of the Berserker",
+            "description": "A barbarian who follows the Path of the Berserker is a warrior driven by rage and frenzy, capable of ignoring pain and fatigue in combat."
+          },
+          {
+            "name": "Path of the Totem Warrior",
+            "description": "Totem warriors gain spiritual support from animal totems, granting them enhanced physical capabilities and connection to nature."
+          },
+          {
+            "name": "Path of the Ancestral Guardian",
+            "description": "Ancestral guardians are protectors who call upon the spirits of their ancestors to shield and guide them in battle."
+          }
+        ]
+      },
+      {
+        "name": "Bard",
+        "description": "Bards are versatile spellcasters and musicians who weave magic through song and poetry. They are known for their charisma, and their ability to inspire, charm, and heal their allies.",
+        "subclasses": [
+          {
+            "name": "College of Lore",
+            "description": "Lore bards specialize in knowledge, tales, and spells from diverse sources, focusing on versatility and learning."
+          },
+          {
+            "name": "College of Valor",
+            "description": "Valor bards inspire bravery in others, blending combat prowess with musical magic to lead the charge in battle."
+          },
+          {
+            "name": "College of Glamour",
+            "description": "Glamour bards use fey-inspired magic and charm to influence others, captivating audiences with their presence and grace."
+          }
+        ]
+      },
+      {
+        "name": "Cleric",
+        "description": "Clerics are divine spellcasters who serve a god or pantheon, channeling their faith into powerful healing, protection, and damage-dealing spells. They are versatile, able to adapt to any role in a party.",
+        "subclasses": [
+          {
+            "name": "Life Domain",
+            "description": "Clerics of the Life Domain focus on healing, protection, and enhancing vitality, drawing on the energy of positive life force."
+          },
+          {
+            "name": "Light Domain",
+            "description": "Clerics of the Light Domain channel the power of radiance, turning undead and using the power of light to defeat darkness."
+          },
+          {
+            "name": "War Domain",
+            "description": "Clerics of the War Domain are martial champions who fight on behalf of their gods, bolstering their allies and striking down enemies."
+          }
+        ]
+      },
+      {
+        "name": "Druid",
+        "description": "Druids are spellcasters who draw on the power of nature to heal and destroy, able to transform into animals and control the elements. They serve as protectors of the natural world.",
+        "subclasses": [
+          {
+            "name": "Circle of the Land",
+            "description": "Druids of the Circle of the Land are connected to specific environments, using magic related to the land they are sworn to protect."
+          },
+          {
+            "name": "Circle of the Moon",
+            "description": "Circle of the Moon druids focus on shape-shifting into powerful animals, particularly for combat, using Wild Shape to great effect."
+          },
+          {
+            "name": "Circle of Dreams",
+            "description": "Circle of Dreams druids draw upon the magic of the Feywild to heal and protect, connecting to dreams and soothing nature's pain."
+          }
+        ]
+      },
+      {
+        "name": "Fighter",
+        "description": "Fighters are masters of weaponry, skilled in combat and tactics. Their martial prowess allows them to excel in battle, whether fighting with swords, bows, or other weapons.",
+        "subclasses": [
+          {
+            "name": "Champion",
+            "description": "Champions focus on raw physical power and combat efficiency, excelling at feats of strength and precision in battle."
+          },
+          {
+            "name": "Battle Master",
+            "description": "Battle Masters use tactical maneuvers and combat techniques to outsmart and outmaneuver their foes, controlling the battlefield."
+          },
+          {
+            "name": "Eldritch Knight",
+            "description": "Eldritch Knights combine arcane magic with martial skill, enhancing their attacks and defense with spells."
+          }
+        ]
+      },
+      {
+        "name": "Monk",
+        "description": "Monks are disciplined martial artists who use their physical and mental training to channel ki, a mystical energy. They combine unarmed combat and supernatural abilities to overcome their foes.",
+        "subclasses": [
+          {
+            "name": "Way of the Open Hand",
+            "description": "Monks of the Way of the Open Hand master martial arts techniques that allow them to manipulate their opponents and control the flow of battle."
+          },
+          {
+            "name": "Way of Shadow",
+            "description": "Way of Shadow monks are stealthy warriors who use darkness, illusion, and trickery to outmaneuver their foes and strike from the shadows."
+          },
+          {
+            "name": "Way of the Four Elements",
+            "description": "Monks of the Four Elements channel elemental forces—fire, water, earth, and air—through their martial techniques, allowing them to shape and command the elements."
+          }
+        ]
+      },
+      {
+        "name": "Paladin",
+        "description": "Paladins are holy knights sworn to uphold justice and righteousness. They combine martial prowess with divine magic, protecting their allies while smiting their foes with holy power.",
+        "subclasses": [
+          {
+            "name": "Oath of Devotion",
+            "description": "Paladins who swear the Oath of Devotion follow ideals of justice, virtue, and protection, standing as shining examples of righteousness."
+          },
+          {
+            "name": "Oath of Vengeance",
+            "description": "Paladins of the Oath of Vengeance are sworn to punish those who commit grievous sins, seeking justice and retribution."
+          },
+          {
+            "name": "Oath of the Ancients",
+            "description": "Paladins who swear the Oath of the Ancients fight to protect the natural world, blending ancient magic with their divine powers."
+          }
+        ]
+      },
+      {
+        "name": "Ranger",
+        "description": "Rangers are skilled hunters and survivalists, using their knowledge of nature to track foes and navigate the wilderness. They combine martial skill with spells to protect nature and destroy their enemies.",
+        "subclasses": [
+          {
+            "name": "Hunter",
+            "description": "Hunters excel at tracking and defeating enemies in natural environments, focusing on combat skills to deal with dangerous foes."
+          },
+          {
+            "name": "Beast Master",
+            "description": "Beast Masters form a bond with a loyal animal companion, using the beast’s abilities to enhance their own combat prowess."
+          },
+          {
+            "name": "Gloom Stalker",
+            "description": "Gloom Stalkers thrive in darkness and stealth, using the cover of night or the Underdark to ambush their foes."
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "description": "Rogues are masters of stealth, deception, and precision strikes. They excel at sneaking through shadows, picking locks, and striking with deadly accuracy from the shadows.",
+        "subclasses": [
+          {
+            "name": "Thief",
+            "description": "Thieves are skilled in subtlety, larceny, and exploration, excelling at stealth and infiltration."
+          },
+          {
+            "name": "Assassin",
+            "description": "Assassins specialize in elimination, striking with deadly precision and using stealth to eliminate targets quickly."
+          },
+          {
+            "name": "Arcane Trickster",
+            "description": "Arcane Tricksters combine rogue skills with magic, using illusions and enchantments to deceive and surprise their enemies."
+          }
+        ]
+      },
+      {
+        "name": "Sorcerer",
+        "description": "Sorcerers are born with innate magical power, often due to a draconic or otherworldly bloodline. They have a natural talent for casting spells, using their raw magical energy to shape the world around them.",
+        "subclasses": [
+          {
+            "name": "Draconic Bloodline",
+            "description": "Sorcerers with a draconic bloodline possess the innate power of dragons, often manifesting in physical traits or elemental abilities."
+          },
+          {
+            "name": "Wild Magic",
+            "description": "Wild Magic sorcerers draw on raw, uncontrolled magical forces, often producing unpredictable effects in the heat of battle."
+          },
+          {
+            "name": "Divine Soul",
+            "description": "Divine Soul sorcerers have a connection to divine power, blending arcane and divine magic to become healers and warriors alike."
+          }
+        ]
+      },
+      {
+        "name": "Warlock",
+        "description": "Warlocks gain their magical powers through pacts with otherworldly beings. They are versatile spellcasters, drawing power from their patrons to shape the battlefield and manipulate their foes.",
+        "subclasses": [
+          {
+            "name": "The Fiend",
+            "description": "Warlocks who make pacts with fiendish patrons draw on the powers of Hell to wield destructive magic and resist the ravages of battle."
+          },
+          {
+            "name": "The Great Old One",
+            "description": "Warlocks of the Great Old One gain their powers from eldritch, unfathomable entities, tapping into cosmic knowledge and mind-warping powers."
+          },
+          {
+            "name": "The Archfey",
+            "description": "Warlocks of the Archfey serve powerful fey lords, using their magic to beguile, charm, and enchant others."
+          }
+        ]
+      },
+      {
+        "name": "Wizard",
+        "description": "Wizards are masters of arcane magic, using their extensive study of spells to control the elements and bend reality to their will. Their spellbooks contain a vast array of magical knowledge.",
+        "subclasses": [
+          {
+            "name": "School of Evocation",
+            "description": "Wizards of Evocation specialize in elemental magic, unleashing powerful blasts of fire, lightning, and other destructive forces."
+          },
+          {
+            "name": "School of Illusion",
+            "description": "Wizards of Illusion specialize in creating convincing illusions to deceive and manipulate the senses of others."
+          },
+          {
+            "name": "School of Necromancy",
+            "description": "Necromancers wield the dark arts of death magic, manipulating life and death, and controlling undead minions."
+          }
+        ]
+      }
+    ]
+  }
+  
