@@ -75,22 +75,22 @@ cd dnd-java-application
 
 
 File Structure:
-DnD
-├── lib/                    # External libraries (if any)
-├── resources/              # Resources (e.g., images, sounds)
-├── src/                    # Source code
-│   ├── main/
-│   │   ├── App.java        # Main application entry point
-│   │   ├── commonConstants/ 
-│   │   ├── main.GUI/      
-│   │   │   ├── CharacterCreator.java  # Character creation GUI
-│   │   │   ├── CharacterList.java     # Character selection GUI
-│   │   │   ├── GUI.java               # Core GUI components
-│   │   ├── main.Logic/
-│   │   │   ├── Character.java         # Character data model
-│   │   │   ├── ClassWrapper.java      # Class selection model
-│   │   │   ├── Item.java             # Item data model
-│   │   │   ├── Spell.java            # Spell data model
-│   │   ├── main.resources/
-│   ├── lib/                    # Any libraries or external packages
-└── README.md                 # This README file
+    DnD
+    ├── lib/                    # External libraries (if any)
+    ├── resources/              # Resources (e.g., images, sounds)
+    ├── src/                    # Source code
+    │   ├── main/
+    │   │   ├── App.java        # Main application entry point
+    │   │   ├── commonConstants/ 
+    │   │   ├── main.GUI/      
+    │   │   │   ├── CharacterCreator.java  # Character creation GUI
+    │   │   │   ├── CharacterList.java     # Character selection GUI
+    │   │   │   ├── GUI.java               # Core GUI components
+    │   │   ├── main.Logic/
+    │   │   │   ├── Character.java         # Character data model
+    │   │   │   ├── ClassWrapper.java      # Class selection model
+    │   │   │   ├── Item.java             # Item data model
+    │   │   │   ├── Spell.java            # Spell data model
+    │   │   ├── main.resources/
+    │   ├── lib/                    # Any libraries or external packages
+    └── README.md                 # This README file
